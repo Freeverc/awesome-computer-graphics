@@ -1,0 +1,15 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppClean.targets(76,5): warning : 文件“c:\users\freeverc\projects\visualstudioprojects\graphics\x64\debug\problem4.pdb”正由另一进程使用，因此该进程无法访问此文件。
+  Problem4.cpp
+C:\Users\freeverc\Projects\VisualStudioProjects\Graphics\Problem4\Problem4.cpp(152,23): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\freeverc\Projects\VisualStudioProjects\Graphics\Problem4\Problem4.cpp(161,19): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\freeverc\Projects\VisualStudioProjects\Graphics\Problem4\Problem4.cpp(161,31): warning C4305: “+=”: 从“double”到“float”截断
+C:\Users\freeverc\Projects\VisualStudioProjects\Graphics\Problem4\Problem4.cpp(202,22): warning C4101: “len”: 未引用的局部变量
+C:\Users\freeverc\Projects\VisualStudioProjects\Graphics\Problem4\Problem4.cpp(202,18): warning C4101: “y2”: 未引用的局部变量
+C:\Users\freeverc\Projects\VisualStudioProjects\Graphics\Problem4\Problem4.cpp(202,10): warning C4101: “y1”: 未引用的局部变量
+C:\Users\freeverc\Projects\VisualStudioProjects\Graphics\Problem4\Problem4.cpp(202,6): warning C4101: “x1”: 未引用的局部变量
+C:\Users\freeverc\Projects\VisualStudioProjects\Graphics\Problem4\Problem4.cpp(201,18): warning C4101: “xRight”: 未引用的局部变量
+C:\Users\freeverc\Projects\VisualStudioProjects\Graphics\Problem4\Problem4.cpp(201,26): warning C4101: “yDown”: 未引用的局部变量
+C:\Users\freeverc\Projects\VisualStudioProjects\Graphics\Problem4\Problem4.cpp(201,6): warning C4101: “xLeft”: 未引用的局部变量
+C:\Users\freeverc\Projects\VisualStudioProjects\Graphics\Problem4\Problem4.cpp(202,14): warning C4101: “x2”: 未引用的局部变量
+C:\Users\freeverc\Projects\VisualStudioProjects\Graphics\Problem4\Problem4.cpp(201,13): warning C4101: “yUp”: 未引用的局部变量
+C:\Users\freeverc\Projects\VisualStudioProjects\Graphics\x64\Debug\Problem4.pdb : fatal error LNK1318: 非意外的 PDB 错误: FORMAT (11)“C:\Users\freeverc\Projects\VisualStudioProjects\Graphics\x64\Debug\Problem4.pdb”

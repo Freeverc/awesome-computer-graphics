@@ -1,0 +1,6 @@
+﻿  Problem1.cpp
+C:\Users\freeverc\Projects\VisualStudioProjects\Graphics\Problem1\Problem1.cpp(300,9): warning C4101: “x”: 未引用的局部变量
+C:\Users\freeverc\Projects\VisualStudioProjects\Graphics\Problem1\Problem1.cpp(326,9): warning C4101: “x”: 未引用的局部变量
+C:\Users\freeverc\Projects\VisualStudioProjects\Graphics\Problem1\Problem1.cpp(385,12): warning C4101: “y”: 未引用的局部变量
+C:\Users\freeverc\Projects\VisualStudioProjects\Graphics\Problem1\Problem1.cpp(385,9): warning C4101: “x”: 未引用的局部变量
+  Problem1.vcxproj -> C:\Users\freeverc\Projects\VisualStudioProjects\Graphics\x64\Debug\Problem1.exe
