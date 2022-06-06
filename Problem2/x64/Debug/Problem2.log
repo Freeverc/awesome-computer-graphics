@@ -1,7 +1,0 @@
-﻿  Problem2.cpp
-C:\Users\freeverc\Projects\VisualStudioProjects\Graphics\Problem2\Problem2.cpp(148,9): warning C4101: “x”: 未引用的局部变量
-C:\Users\freeverc\Projects\VisualStudioProjects\Graphics\Problem2\Problem2.cpp(178,12): warning C4101: “y”: 未引用的局部变量
-C:\Users\freeverc\Projects\VisualStudioProjects\Graphics\Problem2\Problem2.cpp(178,9): warning C4101: “x”: 未引用的局部变量
-C:\Users\freeverc\Projects\VisualStudioProjects\Graphics\Problem2\Problem2.cpp(293,28): warning C4101: “endY”: 未引用的局部变量
-C:\Users\freeverc\Projects\VisualStudioProjects\Graphics\Problem2\Problem2.cpp(293,22): warning C4101: “endX”: 未引用的局部变量
-  Problem2.vcxproj -> C:\Users\freeverc\Projects\VisualStudioProjects\Graphics\x64\Debug\Problem2.exe
