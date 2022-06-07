@@ -10,7 +10,7 @@ OpenGl(freeglut3)
 +  t : switch between rendering faces and not
 Move models demo.
 ### 3. Results
-![avatar][https://github.com/Freeverc/awesome-computer-graphics/blob/master/ModelMoving/images/models.png]
+![results](https://github.com/Freeverc/awesome-computer-graphics/blob/master/ModelMoving/images/models.png)
 
 ## CourseTasks
 ### 1. Requirements
