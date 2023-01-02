@@ -12,6 +12,12 @@ Move models demo.
 ### 3. Results
 ![results](https://github.com/Freeverc/awesome-computer-graphics/blob/master/ModelMoving/images/models.png)
 
+## LightingScene
+### 1. Requirements
+OpenGl(freeglut3)
+### 2. Results
+![results](https://github.com/Freeverc/awesome-computer-graphics/blob/master/LightingScene/images/scene.png)
+
 ## CourseTasks
 ### 1. Requirements
 EasyX
