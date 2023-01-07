@@ -9,7 +9,7 @@ src/util/version.h
 build*/
 install-debug/
 install-release/
-# data/
+data/
 doc/_build
 bin*/
 bin/
